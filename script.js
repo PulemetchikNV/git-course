@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h1>KABAN</h1>'
+document.body.innerHTML = '<h1>KABANg</h1>'
